@@ -11,8 +11,4 @@
 
 ●배터리를 사용한 센서 노드를 제작하여 사용자가 설치와 제거를 수월하게 제작
 
-
-
-
-그림 1. LoRa 통신 모듈(게이트웨이)
-그림 2. 센서 노드 테스트
+![image](https://user-images.githubusercontent.com/87055146/204072633-7dcf1b7d-092f-44e0-bff0-020975f90e7d.png)
